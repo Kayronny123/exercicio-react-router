@@ -5,7 +5,7 @@ export default function ProductId() {
     <>
       <Header />
 
-      <input placeholder="Digite o nome do produto" />
+      <input placeholder="Digite o id do produto" />
     </>
   );
 }
